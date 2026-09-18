@@ -1,0 +1,8 @@
+{
+ "series": "example",
+ "rule": "Names, places, teams and pet names keep their English spelling in every language unless the style sheet says otherwise. Never translate, never decline into a different spelling, never invent a new name.",
+ "characters": ["Anna", "James"],
+ "places_teams_brands": ["Boston", "Red Sox"],
+ "family_nicknames_keep": ["Pop"],
+ "notes": "Family surnames are never inflected."
+}
